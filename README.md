@@ -22,9 +22,11 @@ We are Brave Squirrels! Team from the best polish Web Development Course - Coder
 - https://github.com/kam237zasada
 - https://github.com/mchojak97
 - https://github.com/Veryyapeee
+- https://github.com/MajStc
 
 ## Our portfolios
 
 - https://kam237zasada.github.io/portfolio/
 - https://mchojak97.github.io/myportfolio-website/
 - https://veryyapeee.github.io/CodersCamp2020.Project.HTML-CSS.BusinessCard/
+- https://github.com/MajStc/CodersCamp2020.Project.HTML-CSS.Portfolio
