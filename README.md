@@ -6,6 +6,7 @@ We are Brave Squirrels! Team from the best polish Web Development Course - Coder
 1. Kamil Zasada
 2. Maciej Chojak
 3. Cyprian Zamiara
+4. Michał Smalira
 
 ## Technologies
 
