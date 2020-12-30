@@ -7,7 +7,8 @@ We are Brave Squirrels! Team from the best polish Web Development Course - Coder
 2. Maciej Chojak
 3. Cyprian Zamiara
 4. Michał Smalira
-5. Dawid Tołłoczko
+5. Artur Michałowski
+6. Dawid Tołłoczko
 
 ## Technologies
 
@@ -24,6 +25,7 @@ We are Brave Squirrels! Team from the best polish Web Development Course - Coder
 - https://github.com/mchojak97
 - https://github.com/Veryyapeee
 - https://github.com/MajStc
+- https://github.com/MoreThanADC
 - https://github.com/dawid-to
 
 ## Our portfolios
@@ -32,4 +34,5 @@ We are Brave Squirrels! Team from the best polish Web Development Course - Coder
 - https://mchojak97.github.io/myportfolio-website/
 - https://veryyapeee.github.io/CodersCamp2020.Project.HTML-CSS.BusinessCard/
 - https://github.com/MajStc/CodersCamp2020.Project.HTML-CSS.Portfolio
+- https://morethanadc.github.io/Business-Card/
 - https://dawid-to.github.io/coderscamp2020-dzial-1/
